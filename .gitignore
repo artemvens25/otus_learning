@@ -1,2 +1,7 @@
 .idea/
-otus_venv
+.pytest_cache
+.venv
+.env
+env/
+venv/
+otus_venv/
